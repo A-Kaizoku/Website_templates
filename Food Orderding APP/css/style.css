@@ -47,7 +47,7 @@
    
     /* color: aliceblue; */
     list-style: none;
-    font-size: 1.3rem;
+    font-size: 2rem;
 }
 #navbar ul li a{
     color: white;
@@ -111,7 +111,7 @@
 #services .box{
     border: 2px solid brown;
     padding: 34px;
-    margin: 3px 6px;
+    margin: 22px 6px;
     border-radius: 20px;
     background: #f2f2f2;
 }
